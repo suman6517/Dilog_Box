@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/new_edit"
+        android:icon="@drawable/baseline_edit_24"
+        android:title="Edit"
+        /> <item
+        android:id="@+id/new_delete"
+        android:icon="@drawable/baseline_delete_24"
+        android:title="Delete"
+        /> <item
+        android:id="@+id/new_search"
+        android:icon="@drawable/baseline_search_24"
+        android:title="Search"
+        /> <item
+        android:id="@+id/new_profile"
+        android:icon="@drawable/baseline_approval_24"
+        android:title="New Profile"
+        /> <item
+        android:id="@+id/new_group"
+        android:icon="@drawable/baseline_group_24"
+        android:title="New Group"
+        />
+</menu>

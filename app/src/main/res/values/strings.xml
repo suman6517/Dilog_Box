@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Demo Home App</string>
+    <string name="click_me">CLICK ME</string>
+    <string name="show_dialog">SHOW DIALOG</string>
+    <string name="aleart_title">DELETE THE FILE</string>
+    <string name="aleart_message">ARE YOU SURE??</string>
+    <string name="aleart_possitive">YES</string>
+    <string name="aleart_negative">NO</string>
+    <string name="aleart_nutural">CANCEL</string>
+    <string name="sweett_aleart_dilog_box">SWEETT ALEART DILOG BOX</string>
+    <string name="button1">BUTTON1</string>
+    <string name="button2">BUTTON2</string>
+    <string name="button3">BUTTON3</string>
+    <string name="show_custom_aleart">SHOW CUSTOM ALEART</string>
+    <string name="menu_aleart_dilogbox_custom_aleart_dilog_box">MENU , ALEART DILOGBOX, CUSTOM ALEART DILOG BOX</string>
+    <string name="check_webview">CHECK WEBVIEW</string>
+
+
+</resources>
